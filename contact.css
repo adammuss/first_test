@@ -1,0 +1,30 @@
+/* CONTACT */
+.contact-container{
+    display: flex;
+    flex-direction: row;
+
+    background-color: black;
+    opacity:0.9;
+    margin:0 0 150px 0;
+    padding:16px;
+    text-align: center;
+}
+
+.main-content{
+    padding:0 15% 0 15%;
+}
+
+.location{
+    position: relative;
+    left:40%;
+}
+
+.contact-item{
+    color:white;
+    font-size: 28px;
+}
+
+.contact-item-descr{
+    color:grey;
+    font-size: 20px;
+}

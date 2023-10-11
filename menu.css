@@ -1,0 +1,35 @@
+table{
+    margin:0 auto;
+}
+
+td{
+    background-color: black;
+}
+
+li{
+    font-size:20px;
+    color:grey;
+}
+
+.list{
+    padding:8px;
+}
+
+.dish-name{
+    font-weight: 900;
+    color:white;
+}
+
+.dishes-container{
+    display: flex;
+    flex-direction: row;
+    color:white;
+    background-color: black;
+    opacity: 0.85;
+    margin: 0 15% 0 15%;
+}
+
+.main-content{
+    margin:auto;
+    margin-bottom:12px;
+}
